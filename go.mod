@@ -1,4 +1,4 @@
-module github.com/nobodyawesomer/redbag
+module github.com/nobodyawesomer/redkit
 
 go 1.18
 

